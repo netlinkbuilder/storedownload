@@ -3,7 +3,7 @@
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 </head>
-<body><p>在线驱动工具下载，建议下载使用 <a href='https://www.ashampoo.com/zh-cn/dld/0095/driver-updater'>ashampoo</a></p>
+<p>在线驱动工具下载，建议下载使用 <a href='https://www.ashampoo.com/zh-cn/dld/0095/driver-updater'>ashampoo</a></p>
 <figure><table>
 <thead>
 <tr><th style='text-align:left;' >电脑品牌</th><th style='text-align:right;' >官网链接</th></tr></thead>
@@ -12,5 +12,4 @@
 <hr />
 <p><u><a href='https://netlinkbuilder.github.io/storedownload/'>返回首页</a></u></p>
 <p>&nbsp;</p>
-</body>
 </html>
