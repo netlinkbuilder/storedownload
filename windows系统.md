@@ -3,7 +3,6 @@
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 </head>
-<body><p><strong>windows 系统</strong></p>
 <figure><table>
 <thead>
 <tr><th>系统类型</th><th>下载方式1</th><th>下载方式2</th></tr></thead>
@@ -12,6 +11,5 @@
 <hr />
 <p><a href='https://netlinkbuilder.github.io/storedownload/'><u>返回首页</u></a></p>
 <p>&nbsp;</p>
-</body>
 </html>
 
