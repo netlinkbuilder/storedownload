@@ -1,13 +1,17 @@
-##### 多玩软件下载站
+#### windows驱动工具
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 </head>
-<body><figure><table>
+<body><p>在线驱动工具下载，建议下载使用 <a href='https://www.ashampoo.com/zh-cn/dld/0095/driver-updater'>ashampoo</a></p>
+<figure><table>
 <thead>
-<tr><th>软件名称</th><th style='text-align:center;' >下载</th></tr></thead>
-<tbody><tr><td>windows 系统</td><td style='text-align:center;' ><a href='https://netlinkbuilder.github.io/storedownload/windows%E7%B3%BB%E7%BB%9F'>📥</a></td></tr><tr><td>windows PE</td><td style='text-align:center;' ><a href='https://netlinkbuilder.github.io/storedownload/windowspe'>📥</a></td></tr><tr><td>windows defender配置</td><td style='text-align:center;' ><a href='https://mp.weixin.qq.com/s/wteZa11xBB421qE_b_SD8w'>📥</a></td></tr><tr><td>windows 防火墙配置</td><td style='text-align:center;' ><a href='https://mp.weixin.qq.com/s/FmWjIiGbs_2f5dvbVm7Btw'>📥</a></td></tr><tr><td>windows 驱动工具</td><td style='text-align:center;' ><a href='https://github.com/netlinkbuilder/storedownload/blob/gh-pages/windows%E9%A9%B1%E5%8A%A8%E5%B7%A5%E5%85%B7.md'>📥</a></td></tr><tr><td>windows 离线补丁下载</td><td style='text-align:center;' ><a href='https://www.catalog.update.microsoft.com/Home.aspx'>📥</a></td></tr><tr><td>windows 软件下载工具</td><td style='text-align:center;' ><a href='https://github.com/netlinkbuilder/storedownload/blob/9f96247e8e46c84191619469e1e03d7d0659e9f0/windows%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7.md'>📥</a></td></tr><tr><td>windows 软件卸载工具</td><td style='text-align:center;' ><a href='https://github.com/netlinkbuilder/storedownload/blob/9f96247e8e46c84191619469e1e03d7d0659e9f0/windows%E8%BD%AF%E4%BB%B6%E5%8D%B8%E8%BD%BD%E5%B7%A5%E5%85%B7.md'>📥</a></td></tr><tr><td>windows 文件压缩工具</td><td style='text-align:center;' ><a href='https://github.com/netlinkbuilder/storedownload/blob/9f96247e8e46c84191619469e1e03d7d0659e9f0/windows%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7.md'>📥</a></td></tr><tr><td>待续。。敬请期待！！！</td><td style='text-align:center;' >&nbsp;</td></tr></tbody>
+<tr><th style='text-align:left;' >电脑品牌</th><th style='text-align:right;' >官网链接</th></tr></thead>
+<tbody><tr><td style='text-align:left;' >ThinkPad</td><td style='text-align:right;' ><a href='https://think.lenovo.com.cn/support/driver/mainpage.aspx#ThinkPad?from=newthink'>📥</a></td></tr><tr><td style='text-align:left;' >联想</td><td style='text-align:right;' ><a href='https://newsupport.lenovo.com.cn/driveDownloads_index.html?v=f329f3f8565a725702cb32d0e83d970d'>📥</a></td></tr><tr><td style='text-align:left;' >戴尔</td><td style='text-align:right;' ><a href='https://www.dell.com/support/home/zh-cn?app=drivers'>📥</a></td></tr><tr><td style='text-align:left;' >惠普</td><td style='text-align:right;' ><a href='https://support.hp.com/cn-zh/drivers'>📥</a></td></tr><tr><td style='text-align:left;' >英伟达（显卡）</td><td style='text-align:right;' ><a href='https://www.nvidia.cn/Download/index.aspx?lang=cn'>📥</a></td></tr><tr><td style='text-align:left;' >AMD（显卡）</td><td style='text-align:right;' ><a href='https://www.amd.com/zh-hans/support'>📥</a></td></tr></tbody>
 </table></figure>
+<hr />
+<p><u><a href='https://netlinkbuilder.github.io/storedownload/'>返回首页</a></u></p>
 <p>&nbsp;</p>
 </body>
 </html>
+
