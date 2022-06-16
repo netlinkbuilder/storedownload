@@ -2,7 +2,6 @@
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 </head>
-<body><p><strong>windows PE/镜像工具</strong></p>
 <figure><table>
 <thead>
 <tr><th style='text-align:left;' >软件名称</th><th style='text-align:right;' >下载方式</th></tr></thead>
@@ -11,5 +10,4 @@
 <hr />
 <p><a href='https://netlinkbuilder.github.io/storedownload/'>返回主页</a></p>
 <p>&nbsp;</p>
-</body>
 </html>
