@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>windows 系统</title>
 </head>
 <body><p><strong>windows 系统</strong></p>
 <figure><table>
