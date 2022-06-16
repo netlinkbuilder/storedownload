@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>windows驱动工具</title>
 </head>
 <body><p><strong>📥windows 驱动工具</strong></p>
 <p>在线驱动工具下载，建议下载使用 📥<a href='https://www.ashampoo.com/zh-cn/dld/0095/driver-updater'><strong>ashampoo</strong></a></p>
