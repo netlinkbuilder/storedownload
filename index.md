@@ -4,7 +4,6 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>软件下载目录</title>
 </head>
 <body><figure><table>
 <thead>
@@ -13,4 +12,4 @@
 </table></figure>
 <p>&nbsp;</p>
 </body>
-</html
+</html>
