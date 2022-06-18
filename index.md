@@ -10,6 +10,6 @@
 <tbody><tr><td style='text-align:left;' >ThinkPad</td><td style='text-align:right;' ><a href='https://think.lenovo.com.cn/support/driver/mainpage.aspx#ThinkPad?from=newthink'>📥</a></td></tr><tr><td style='text-align:left;' >联想</td><td style='text-align:right;' ><a href='https://newsupport.lenovo.com.cn/driveDownloads_index.html?v=f329f3f8565a725702cb32d0e83d970d'>📥</a></td></tr><tr><td style='text-align:left;' >戴尔</td><td style='text-align:right;' ><a href='https://www.dell.com/support/home/zh-cn?app=drivers'>📥</a></td></tr><tr><td style='text-align:left;' >惠普</td><td style='text-align:right;' ><a href='https://support.hp.com/cn-zh/drivers'>📥</a></td></tr><tr><td style='text-align:left;' >英伟达（显卡）</td><td style='text-align:right;' ><a href='https://www.nvidia.cn/Download/index.aspx?lang=cn'>📥</a></td></tr><tr><td style='text-align:left;' >AMD（显卡）</td><td style='text-align:right;' ><a href='https://www.amd.com/zh-hans/support'>📥</a></td></tr></tbody>
 </table></figure>
 <hr />
-<p><u><a href='https://netlinkbuilder.github.io/storedownload/'>返回首页</a></u></p>
+<p><u><a href='https://qoorange.com/'>返回首页</a></u></p>
 <p>&nbsp;</p>
 </html>
