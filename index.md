@@ -5,8 +5,8 @@
 </head>
 <figure><table>
 <thead>
-<tr><th>软件名称</th><th>官网下载</th></tr></thead>
-<tbody><tr><td><strong>WinRAR</strong></td><td><a href='https://www.rarlab.com/download.htm'>📥</a></td></tr><tr><td><strong>WinZIP</strong></td><td><a href='https://www.winzip.com/cn/product/winzip/'>📥</a></td></tr><tr><td><strong>7-ZIP</strong></td><td><a href='https://www.7-zip.org'>📥</a></td></tr><tr><td><strong>360ZIP</strong></td><td><a href='https://yasuo.360.cn'>📥</a></td></tr></tbody>
+<tr><th>软件名称</th><th style='text-align:right;' >官网下载</th></tr></thead>
+<tbody><tr><td><strong>WinRAR</strong></td><td style='text-align:right;' ><a href='https://www.rarlab.com/download.htm'>📥</a></td></tr><tr><td><strong>WinZIP</strong></td><td style='text-align:right;' ><a href='https://www.winzip.com/cn/product/winzip/'>📥</a></td></tr><tr><td><strong>7-ZIP</strong></td><td style='text-align:right;' ><a href='https://www.7-zip.org'>📥</a></td></tr><tr><td><strong>360ZIP</strong></td><td style='text-align:right;' ><a href='https://yasuo.360.cn'>📥</a></td></tr></tbody>
 </table></figure>
 <hr />
 <p><a href='https://qoorange.com'><strong>返回首页</strong></a></p>
