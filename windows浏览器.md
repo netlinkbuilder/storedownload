@@ -10,7 +10,7 @@
 </table></figure>
 <p>关于浏览器只建议安装上述两款浏览器，当然也可以选择windows自带的<a href='https://www.microsoft.com/zh-cn/edge'>edge浏览器</a></p>
 <hr />
-<p>返回首页</p>
+<p><a href='https://qoorange.com'>返回首页</a></p>
 <p>&nbsp;</p>
 </body>
 </html>
